@@ -20,13 +20,9 @@ symbol_table = {
     'c': 2
 }
 
-# Screenshot Program
+## Screenshot Program
 
-## Hasil Running Program
-
-<p align="center">
-  <img src="images/Screenshot2026-05-08000036.png" width="800">
-</p>
+![Hasil Program](imageshasil-program.png)
 
 try:
     print(f"Input: {source_code}")
