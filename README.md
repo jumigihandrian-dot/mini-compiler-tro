@@ -22,7 +22,7 @@ symbol_table = {
 
 ## Screenshot Program
 
-![Hasil Program](images/hasil-program.png)
+![Hasil Program](hasil-program.png)
 
 try:
     print(f"Input: {source_code}")
