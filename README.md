@@ -20,6 +20,12 @@ symbol_table = {
     'c': 2
 }
 
+# Screenshot Program
+
+## Hasil Running Program
+
+![Hasil Program](images/hasil-program.png)
+
 try:
     print(f"Input: {source_code}")
 
