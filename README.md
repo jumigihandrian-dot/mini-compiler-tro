@@ -1,5 +1,10 @@
 # Mini Compiler - Operator Pangkat (^)
 
+## Nama 
+Jumigih Andrian
+
+## Nim
+231011401426
 ## Nama Tugas
 Implementasi Mini Compiler dengan dukungan operator pangkat (`^`) menggunakan:
 
