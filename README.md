@@ -24,7 +24,7 @@ symbol_table = {
 
 ## Hasil Running Program
 
-![Hasil Program](images/Screenshot 2026-05-08 000036.png)
+![Hasil Program](images/Screenshot2026-05-08000036.png)
 
 try:
     print(f"Input: {source_code}")
