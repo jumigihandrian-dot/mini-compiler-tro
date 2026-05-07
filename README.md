@@ -25,7 +25,7 @@ symbol_table = {
 ## Hasil Running Program
 
 <p align="center">
-  <img src="images/Screenshot 2026-05-08 000036.png" width="800">
+  <img src="images/Screenshot2026-05-08000036.png" width="800">
 </p>
 
 try:
